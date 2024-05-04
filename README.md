@@ -1,5 +1,7 @@
 # lrc2srt
-A website to convert [.lrc files](https://en.wikipedia.org/wiki/LRC_(file_format)) to [.srt files](https://en.wikipedia.org/wiki/SubRip#SubRip_text_file_format). [https://urenko.github.io/lrc2srt](https://urenko.github.io/lrc2srt) [https://calebidklol.github.io/lrc2srt-eng english](https://calebidklol.github.io/lrc2srt-eng) 
+A website to convert [.lrc files](https://en.wikipedia.org/wiki/LRC_(file_format)) to [.srt files](https://en.wikipedia.org/wiki/SubRip#SubRip_text_file_format). [https://urenko.github.io/lrc2srt](https://urenko.github.io/lrc2srt) 
+
+[https://calebidklol.github.io/lrc2srt-eng english](https://calebidklol.github.io/lrc2srt-eng) 
 
 
 ## How to use?
